@@ -1,0 +1,38 @@
+_repo: The-Shield-of-Silence_18225
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Loughridge, George
+    gutenberg_agent_id: '7884'
+    url: http://www.gutenberg.org/2009/agents/7884
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Comstock, Harriet T. (Harriet Theresa)
+    alias: Comstock, Harriet Theresa Smith
+    birthdate: 1860
+    gutenberg_agent_id: '5719'
+    url: http://www.gutenberg.org/2009/agents/5719
+description: The Ship boded no good to Silver Gap as any one could tell. It had brought
+  the plague and the flood; it brought bad crops and raids on hidden stills; it waited
+  until its evil cargo had done its worst and then it sailed away in the night, bearing
+  its pitiful load of dead, or its burden of fear and hate. Surely there was good
+  and sufficient reason for dreading the appearance of The Ship, and on a certain
+  autumn morning it appeared and soon after the two women, unknown to each other,
+  came to Ridge House and this story began.
+gutenberg_issued: '2006-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18225'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Children and adults -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+title: The Shield of Silence
+url: http://www.gutenberg.org/ebooks/18225
